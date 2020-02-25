@@ -1,44 +1,26 @@
 {
-  "_from": "git+https://github.com/shuaijianjian/react-native-yunpeng-alipay.git",
-  "_id": "react-native-yunpeng-alipay@2.0.0",
-  "_inBundle": false,
-  "_location": "/react-native-yunpeng-alipay",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "git",
-    "raw": "react-native-yunpeng-alipay@git+https://github.com/shuaijianjian/react-native-yunpeng-alipay.git",
-    "name": "react-native-yunpeng-alipay",
-    "escapedName": "react-native-yunpeng-alipay",
-    "rawSpec": "git+https://github.com/shuaijianjian/react-native-yunpeng-alipay.git",
-    "saveSpec": "git+https://github.com/shuaijianjian/react-native-yunpeng-alipay.git",
-    "fetchSpec": "https://github.com/shuaijianjian/react-native-yunpeng-alipay.git",
-    "gitCommittish": null
-  },
-  "_requiredBy": [
-    "/"
-  ],
-  "_resolved": "git+https://github.com/shuaijianjian/react-native-yunpeng-alipay.git#63bd9bae8f4c533e1effcdd7a16de4a3a9cb9a17",
-  "_spec": "react-native-yunpeng-alipay@git+https://github.com/shuaijianjian/react-native-yunpeng-alipay.git",
-  "_where": "/Users/adm/test/WYXRN",
-  "author": {
-    "name": "m2mbob"
-  },
-  "bundleDependencies": false,
-  "deprecated": false,
-  "description": "alipay module for react native from yunpeng",
-  "devDependencies": {
-    "jest": "^23.3.0"
-  },
-  "keywords": [
-    "react-native",
-    "alipay",
-    "yunpeng"
-  ],
-  "license": "MIT",
-  "main": "index.js",
   "name": "react-native-yunpeng-alipay",
+  "version": "1.1.5",
+  "description": "React Native Module for alipay.com",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "2.0.0"
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hanshuaibing/react-native-payment-alipay.git"
+  },
+  "keywords": [
+    "alipay",
+    "react",
+    "react-native",
+    "react-component",
+    "ios",
+    "android"
+  ],
+  "peerDependencies": {
+    "react-native": ">=0.40"
+  },
+  "author": "hanhan",
+  "license": "MIT"
 }
